@@ -13,7 +13,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/jefrin-santo-sv-577716332/",
   leetcode: "https://leetcode.com/u/JefrinSanto/",
   leetcodeStats: {
-    solved: 150+,
+    solved: "150+",
     language: "Java",
   },
   resumeUrl: "/Jefrin_Santo_Resume.pdf",
